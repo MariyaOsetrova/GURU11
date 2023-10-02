@@ -43,7 +43,7 @@ public class SystemPropertiesTests {
         //  gradle clean properties_tests
         //  chrome
 
-        //  gradle clean properties_tests -Dbrowser=opera
+        //  gradle clean properties_tests -Dbrowser=opera -- вводить через терминал
         //  opera
     }
 
